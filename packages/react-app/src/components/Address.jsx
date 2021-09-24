@@ -69,7 +69,7 @@ export default function Address(props) {
           href={etherscanLink}
           rel="noopener noreferrer"
         >
-          <Blockies seed={address.toLowerCase()} size={8} scale={2} />
+//          <Blockies seed={address.toLowerCase()} size={8} scale={2} />
         </a>
       </span>
     );

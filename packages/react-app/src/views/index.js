@@ -1,3 +1,3 @@
-export { default as ExampleUI } from "./ExampleUI";
-export { default as Hints } from "./Hints";
-export { default as Subgraph } from "./Subgraph";
+export { default as MintTarotUI } from "./MintTarotUI";
+export { default as AboutTheSpread } from "./AboutTheSpread";
+export { default as Roadmap } from "./Roadmap";
